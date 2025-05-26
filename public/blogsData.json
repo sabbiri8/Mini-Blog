@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "title": "The Rise of AI in Everyday Life",
+    "author": "Sabbir Hossain",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "postedDate": "2025-05-20",
+    "readingTime": 6,
+    "hashtags": ["#AI", "#Technology", "#Future"],
+    "post": "Artificial Intelligence (AI) is no longer just a buzzword — it's rapidly integrating into our daily lives..."
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1581092918790-5c4d9d6eae06",
+    "title": "Mastering React with useReducer",
+    "author": "Tania Rahman",
+    "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "postedDate": "2025-05-18",
+    "readingTime": 7,
+    "hashtags": ["#React", "#JavaScript", "#WebDev"],
+    "post": "Artificial Intelligence (AI) is no longer just a buzzword — it's rapidly integrating into our daily lives..."
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1557804506-669a67965ba0",
+    "title": "Top 10 VS Code Extensions for Developers",
+    "author": "Anik Ahmed",
+    "author_img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "postedDate": "2025-05-15",
+    "readingTime": 2,
+    "hashtags": ["#VSCode", "#Productivity", "#Tools"],
+    "post": "Artificial Intelligence (AI) is no longer just a buzzword — it's rapidly integrating into our daily lives..."
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1581091870622-81a7d34a6ac5",
+    "title": "Understanding Docker in Simple Terms",
+    "author": "Farzana Kabir",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "postedDate": "2025-05-10",
+    "readingTime": 3,
+    "hashtags": ["#Docker", "#DevOps", "#Containers"],
+    "post": "Artificial Intelligence (AI) is no longer just a buzzword — it's rapidly integrating into our daily lives..."
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1556155092-490a1ba16284",
+    "title": "A Beginner's Guide to Node.js",
+    "author": "Jubayer Islam",
+    "author_img": "https://randomuser.me/api/portraits/men/76.jpg",
+    "postedDate": "2025-05-05",
+    "readingTime":9,
+    "hashtags": ["#NodeJS", "#Backend", "#JavaScript"],
+    "post": "Artificial Intelligence (AI) is no longer just a buzzword — it's rapidly integrating into our daily lives..."
+  }
+]
